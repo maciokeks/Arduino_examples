@@ -1,2 +1,2 @@
-# Arduino_examples
-Repo containing useful and handy sketches for many projects
+# Arduino example sketches
+This is for solving specific problems in my projects :)
